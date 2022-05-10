@@ -93,3 +93,7 @@
 
 ---
 ### 9. 참고자료
+* [캐글-클러스터링,추천시스템](https://www.kaggle.com/code/tanetboss/user-clustering-for-anime-recommendation/notebook)  
+* [캐글-Cosine Similarity](https://www.kaggle.com/code/yonatanrabinovich/anime-recommendations-project/notebook)  
+* [캐글-데이터 EDA](https://www.kaggle.com/code/benroshan/content-collaborative-anime-recommendation)  
+
